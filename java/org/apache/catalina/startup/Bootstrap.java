@@ -47,6 +47,14 @@ import org.apache.juli.logging.LogFactory;
  * @author Craig R. McClanahan
  * @author Remy Maucherat
  */
+
+
+/**
+ *
+ * 参考链接   https://www.cnblogs.com/z941030/p/8524882.html
+ *
+ *
+ */
 public final class Bootstrap {
 
     private static final Log log = LogFactory.getLog(Bootstrap.class);
@@ -451,6 +459,8 @@ public final class Bootstrap {
     /**
      * Main method and entry point when starting Tomcat via the provided
      * scripts.
+     *
+     * 这里是程序的入口
      *
      * @param args Command line arguments to be processed
      */
