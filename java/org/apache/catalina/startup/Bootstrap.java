@@ -49,21 +49,6 @@ import org.apache.juli.logging.LogFactory;
  */
 
 
-/**
- *
- * 参考链接
- *  https://www.cnblogs.com/z941030/p/8524882.html
- *
- *  https://juejin.im/entry/5b87815651882542f1054e6c
- *
- *  https://juejin.im/post/5a82a1d05188257a5a4cb418
- *
- *  https://juejin.im/post/599ab90b6fb9a0248926a2b6
- *
- *  https://juejin.im/post/5a75b0be5188254e761781d7
- *
- *
- */
 public final class Bootstrap {
 
     private static final Log log = LogFactory.getLog(Bootstrap.class);
